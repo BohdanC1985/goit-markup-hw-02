@@ -47,6 +47,9 @@ li {
   letter-spacing: 0.02em;
   text-decoration: inherit;
 }
+.active {
+  color: var(--accent-color);
+}
 
 .menu-item:hover,
 .menu-item:focus {
