@@ -72,6 +72,9 @@ li {
 .contacts:focus {
   color: var(--accent-color);
 }
+hr {
+  color: rgba(236, 236, 236, 1);
+}
 
 /* Hero */
 
